@@ -24,7 +24,7 @@ Stake With Us (unagi) https://www.stakewith.us/
 
 ### 0x Protocol
 
-Governance: https://docs.0xprotocol.org/en/latest/additional/audits.html 
+Governance: https://github.com/0xProject/protocol/blob/development/contracts/governance/audits/0xProtocol-06-04-2023-Final.pdf
 
 Settler: https://github.com/0xProject/0x-settler/blob/master/audits/0xProtocolxOurovoros-Report-13-11-2023.pdf
 
