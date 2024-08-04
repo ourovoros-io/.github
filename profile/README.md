@@ -30,7 +30,7 @@ Settler: https://github.com/0xProject/0x-settler/blob/master/audits/0xProtocolxO
 
 ### Immunefi
 
-Vaults: https://github.com/immunefi-team/vaults/tree/main/audits
+Vaults: https://github.com/immunefi-team/vaults/blob/main/audits/2023-02-13%20-%20Ourovoros%20Audit.md
 
 ### Stake with Us - Unagi
 
