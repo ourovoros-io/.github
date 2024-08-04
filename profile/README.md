@@ -25,7 +25,7 @@ Stake With Us (unagi) https://www.stakewith.us/
 ### 0x Protocol
 
 Governance: https://docs.0xprotocol.org/en/latest/additional/audits.html 
-Settler: Private Still as project is pending release
+Settler: https://github.com/0xProject/0x-settler/blob/master/audits/0xProtocolxOurovoros-Report-13-11-2023.pdf
 
 ### Immunefi
 
