@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-
 Ourovoros is a collective of auditors. We are focused on delivering high quality development and auditing for blockchain solutions.
 
 Website : [Ourovoros.io](https://ourovoros.io)
@@ -9,6 +7,12 @@ Website : [Ourovoros.io](https://ourovoros.io)
 ## Open Source Tooling
 
 [https://github.com/orgs/ourovoros-io/repositories](https://github.com/orgs/ourovoros-io/repositories)
+
+[Sway-Analyzer](https://github.com/ourovoros-io/sway-analyzer.git)
+
+[Charcoal](https://github.com/ourovoros-io/charcoal.git)
+
+[Dyno](https://github.com/ourovoros-io/dyno.git]
 
 ## Notable Clients:
 
@@ -45,5 +49,11 @@ Yield: 1 private audit code / team due diligence
 Insurance Protocol based in Ethereum (private codebase) 
 
 AMM Solidly V4 based in Ethereum (private codebase)
+
+If you like our work feel free to donate:
+
+Fuel: 0x05870bbe5fee048c1b2560c7cb66b92dc1ab90873e196ad615b9811be6a06261
+
+ETH: 0xe18A6250a71b76231bcb7C71744C90B0F228f3a9
 
 
