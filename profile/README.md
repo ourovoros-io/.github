@@ -12,7 +12,7 @@ Website : [Ourovoros.io](https://ourovoros.io)
 
 [Charcoal](https://github.com/ourovoros-io/charcoal.git)
 
-[Dyno](https://github.com/ourovoros-io/dyno.git]
+[Dyno](https://github.com/ourovoros-io/dyno.git)
 
 ## Notable Clients:
 
