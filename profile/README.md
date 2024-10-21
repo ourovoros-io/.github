@@ -50,7 +50,7 @@ Insurance Protocol based in Ethereum (private codebase)
 
 AMM Solidly V4 based in Ethereum (private codebase)
 
-If you like our work feel free to donate:
+## If you like our work feel free to donate
 
 Fuel: 0x05870bbe5fee048c1b2560c7cb66b92dc1ab90873e196ad615b9811be6a06261
 
